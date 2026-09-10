@@ -16,4 +16,11 @@ modeling, visualization, and optimization.
 - Data Visualization
 ## Projects
 
-Projects will be added below as the portfolio develops.
+### Baseball Performance Analysis
+
+Analyzed historical baseball team data to examine the relationship between
+on-base percentage and wins, as well as batting average and playoff appearance.
+
+**Tools:** R, ggplot2, dplyr, Regression Analysis, Statistical Testing
+
+[Lets go there shall we](baseball-performance-analysis)
