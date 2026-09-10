@@ -36,7 +36,7 @@ Support Vector Classifier
 
 **Tools:** Python, Pandas, NumPy, scikit-learn, Matplotlib
 
-[Explore Liver Disease Classification →](Liver-Disease-Classification)
+[Explore Liver Disease Classification →](https://github.com/Jeff-Flores/Data-Analytics-Portfolio/blob/main/Machine-Learning-Projects/Liver_disease_classification.ipynb)
 
 
 [Back to Main Portfolio](../README.md)
