@@ -27,7 +27,7 @@ on-base percentage and wins, as well as batting average and playoff appearance.
 
 [Explore the Baseball Analysis →](baseball-performance-analysis)
 
-### Regression Modeling and Variable Selection
+### 🔥 💵 Regression Modeling and Variable Selection
 
 Applied simple and multiple linear regression techniques across two studies.
 The first examined the relationship between fire-station distance and fire
