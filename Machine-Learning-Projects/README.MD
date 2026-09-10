@@ -19,7 +19,7 @@ and model evaluation.
 
 **Tools:** Python, Pandas, NumPy, scikit-learn, Logistic Regression
 
-[Explore Credit Card Churn Prediction →](Credit-Card-Churn-Prediction)
+[Explore Credit Card Churn Prediction →](https://github.com/Jeff-Flores/Data-Analytics-Portfolio/blob/main/Machine-Learning-Projects/Credit_card_churn_prediction.ipynb)
 
 
 ### 🩺 Liver Disease Classification
