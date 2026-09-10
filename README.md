@@ -7,7 +7,7 @@ I am a graduate student studying statistics with a background in
 Statistics and Quantitative Modeling. This portfolio contains selected
 projects demonstrating my experience with data analysis, statistical
 modeling, visualization, and optimization.
-##Technical Skills
+## Technical Skills
 
 - Python
 - R
