@@ -47,7 +47,7 @@ The final model retained five predictors:
 
 ## Project Files
 
-- [View R Code](./regression_analysis.R)
+- [View R Code](https://github.com/Jeff-Flores/Data-Analytics-Portfolio/blob/main/Regression-Modeling-and-Variable-Selection/%20regression_analysis.R)
 - [View Full Report](regression_analysis_report.pdf)
 - [View Fires Dataset](data/Fires.csv)
 - [View Salaries Dataset](data/Salaries.csv)
