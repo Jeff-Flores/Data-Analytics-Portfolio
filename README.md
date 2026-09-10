@@ -14,6 +14,11 @@ modeling, visualization, and optimization.
 - Regression Analysis
 - Statistical Analysis
 - Data Visualization
+- Pandas
+- NumPy
+- scikit-learn
+- Machine Learning
+- Data Preprocessing
 ## Projects
 
 ### ⚾ Baseball Performance Analysis
