@@ -47,11 +47,12 @@ The final model retained five predictors:
 
 ## Project Files
 
-- [View R Analysis](regression_analysis.R)
+- [View R Code](regression_analysis.R)
 - [View Full Report](regression_analysis_report.pdf)
 - [View Fires Dataset](data/Fires.csv)
 - [View Salaries Dataset](data/Salaries.csv)
 
+[Back to Main Portfolio](../README.md)
 [Back to Main Portfolio](../README.md)
 
 
