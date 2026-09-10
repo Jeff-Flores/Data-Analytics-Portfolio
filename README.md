@@ -24,3 +24,15 @@ on-base percentage and wins, as well as batting average and playoff appearance.
 **Tools:** R, ggplot2, dplyr, Regression Analysis, Statistical Testing
 
 [Explore the Baseball Analysis →](baseball-performance-analysis)
+
+### Regression Modeling and Variable Selection
+
+Applied simple and multiple linear regression techniques across two studies.
+The first examined the relationship between fire-station distance and fire
+damage, while the second analyzed factors associated with executive salary
+using multiple regression and model-selection techniques.
+
+**Tools:** R, ggplot2, car, Multiple Linear Regression, Variable Selection,
+VIF Analysis, Regression Diagnostics
+
+[Explore the Regression Analysis →](Regression-Modeling-and-Variable-Selection)
