@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio
+# Data Analytics Portfolio
 Portfolio of statistics, data analytics, and business analytics projects.
 
 Hello, Welcome to my data analytics and statistics portfolio.
