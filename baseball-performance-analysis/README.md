@@ -59,3 +59,11 @@ relationship.
 - `baseball_analysis.R` — R code used for the analysis
 - `baseball_analysis_report.pdf` — Full written analysis and results
 - `data/` — Dataset used for the project
+
+## Project Files
+
+- [View R Analysis](./baseball_analysis.R)
+- [View Full Report](./baseball_Analysis_Report.pdf)
+- [View Dataset](./data/baseball.csv)
+
+[← Back to Main Portfolio](../README.md)
