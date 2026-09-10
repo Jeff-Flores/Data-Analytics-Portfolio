@@ -36,3 +36,15 @@ using multiple regression and model-selection techniques.
 VIF Analysis, Regression Diagnostics
 
 [Explore the Regression Analysis →](Regression-Modeling-and-Variable-Selection)
+
+### 🤖 Machine Learning Projects
+
+A collection of Python classification projects involving data preprocessing,
+model training, hyperparameter tuning, and performance evaluation.
+
+Projects include credit card customer churn prediction and liver disease
+stage classification.
+
+**Tools:** Python, Pandas, NumPy, scikit-learn, Machine Learning
+
+[Explore the Machine Learning Projects →](Machine-Learning-Projects)
