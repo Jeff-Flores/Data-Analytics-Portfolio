@@ -57,7 +57,7 @@ relationship.
 
 ## Project Files
 
-- [View R Analysis](baseball_analysis.R)
+- [View R Code](baseball_analysis.R)
 - [View Full Report](baseball_Analysis_Report.pdf)
 - [View Dataset](data/baseball.csv)
 
