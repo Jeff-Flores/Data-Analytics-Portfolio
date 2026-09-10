@@ -1,10 +1,9 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics and statistics portfolio.
 
-Hello, and welcome to my data analytics and statistics portfolio. I am currently a graduate student studying statistics with a background in Statistics and Quantitative Modeling. This portfolio contains selected
+Hello, and welcome to my data analytics and statistics portfolio. I am currently a graduate student studying statistics with a bachelors in Statistics and Quantitative Modeling. This portfolio contains selected
 projects demonstrating my experience with data analysis, statistical
-modeling, visualization, and optimization.
+modeling, visualization, and optimization. 
 ## Technical Skills
 
 - Python
